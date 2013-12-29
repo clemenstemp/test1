@@ -1,4 +1,7 @@
 Das ist eine neue Datei.
 Eine Änderung.
+<<<<<<< HEAD
 zweite Änderung.
 Abgefahren.
+=======
+>>>>>>> parent of 82a699f... Crazy.
